@@ -4,11 +4,11 @@ Project "Flights" - Our Proposal
 Even though commercial aviation is one of the most sophisticated and complex transportation systems, it is far away from perfect. Flight delays and cancellations are a well-known problem, which tends to increase in recent years. Thus, we decided to examine the problem further and to gain insight in the major causes and the busiest airports in the US. An article in The Economist (Dec 4th 2017) on take-off and landing slots on congested airports was the source of our inspiration to take a detailed look on data on flight delays. Our dataset consists of data on US flights for the full year 2015. 
 Our main goal is, using the tools discussed for big data streaming and processing, to provide at least partial answers to questions like:
 
-•	The airlines with the most delayed flights
-•	The main reasons behind delays in each month and their distribution
-•	The average number of delayed flights over the year/month/day
-•	Flights to which destination / from which destinations are characterized with the most extensive delays
-•	Finding a pattern (e.g. flights Dec – Feb mainly delayed due to weather conditions)
+•	The airlines with the most delayed flights \
+•	The main reasons behind delays in each month and their distribution \
+•	The average number of delayed flights over the year/month/day \
+•	Flights to which destination / from which destinations are characterized with the most extensive delays \
+•	Finding a pattern (e.g. flights Dec – Feb mainly delayed due to weather conditions) \
 
 We consider the dataset to be appropriate to work with in the Apache Hadoop environment, as conventional tools like Microsoft Excel are simply not powerful enough. When trying to load the data in an Excel Sheet, we only managed to load partial data for the first three months. 
 
