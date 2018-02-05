@@ -1,5 +1,5 @@
 # Goethe-University-Big-Data-Technologies
-Project "Flights" - Our Proposal
+Project "Flights" - Final Work
 
 Even though commercial aviation is one of the most sophisticated and complex transportation systems, it is far away from perfect. Flight delays and cancellations are a well-known problem, which tends to increase in recent years. Thus, we decided to examine the problem further and to gain insight in the major causes and the busiest airports in the US. An article in The Economist (Dec 4th 2017) on take-off and landing slots on congested airports was the source of our inspiration to take a detailed look on data on flight delays. Our dataset consists of data on US flights for the full year 2015. 
 Our main goal is, using the tools discussed for big data streaming and processing, to provide at least partial answers to questions like:
